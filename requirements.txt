@@ -1,0 +1,4 @@
+mediapipe-silicon
+numpy
+opencv-python
+opencv-contrib-python
